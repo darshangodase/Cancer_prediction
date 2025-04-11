@@ -1,6 +1,8 @@
 fastapi
 uvicorn
 joblib
+pandas
 scikit-learn
+python-multipart
 numpy
 mangum
